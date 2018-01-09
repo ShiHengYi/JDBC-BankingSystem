@@ -1,0 +1,1 @@
+I also built up a simple UI, change the launcher file delete "BatchInputProcessor.run(filepath);" and add "BankingSystem.start();" to start the UI.
